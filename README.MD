@@ -1,7 +1,7 @@
 ## *Instruções e objetivos* 
 
-Criar um projeto para uma pesquisa online sobre estabelecimentos comerciais com as tecnologias NextJS, React e Tailwind. 
-Usuário acessa o aplicativo faz sua crítica ou sugestão e ainda ganha por isso.
+Criar um projeto base para inicio de desenvolvimento com as tecnologias NextJS, React e Tailwind. 
+
 
 ### Pré-requisitos:
 
